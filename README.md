@@ -1,2 +1,2 @@
 # pykare
-pykare
+Kare project micropython-mod
